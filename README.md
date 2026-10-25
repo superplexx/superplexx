@@ -1,5 +1,6 @@
 # Superplex
 
+PT-BR
 Superplex é um pequeno grupo de 2 amigos que fazem apps para diversão própria
 
 ## Projetos
@@ -12,6 +13,7 @@ Superplex é um pequeno grupo de 2 amigos que fazem apps para diversão própria
 
 - YouTube: [@superplexofc](https://www.youtube.com/@superplexofc)
 
+EN-US
 # Superplex
 
 Superplex is a small group of 2 friends who create apps for their own enjoyment.
